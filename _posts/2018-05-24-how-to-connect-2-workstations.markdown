@@ -1,9 +1,14 @@
 ---
 layout: post
 title:  "Tips | How to connect 2 workstations"
-date:   2018-05-24 14:41:01 +0800
+date:   2018-05-25 09:29:01 +0800
 categories: tips update research
 ---
+
+Update: We got stuck last night. Can't get MPI program running on both machine.
+After like 2 hours of debugging, we found that we didn't set the hosts right. I
+found [this
+tutorial][http://mpitutorial.com/tutorials/running-an-mpi-cluster-within-a-lan/] is very useful.
 
 Recently, my boss bought 2 Dell Precision-Tower workstations. We have been using
 those workstations ever since. But we want to have these 2 workstations
@@ -24,4 +29,7 @@ mpirun -n 64 -host master,slave ./bin/xxx
 {% endhighlight %}
 
 Everything works now!
+
+NOTE: The executable file should be in the same path for master and slave
+machine. The best way to do it is to set up a Network File System.
 
