@@ -9,15 +9,16 @@ categories: faq update research
 #### pku_bqiao_1 账户
 
 {% highlight bash %}
-rsync -avzhe ssh --progress  gzcs:/WORK/pku_bqiao_1/lxb/epoch-xb/epoch2d/ .
+rsync -avzhe ssh --progress  gzcs:/WORK/pku_bqiao_1/远程路径 /本地路径
 {% endhighlight %}
-   
-关于 rsync 的更多用法可以查阅[这个链接](https://www.tecmint.com/rsync-local-remote-file-synchronization-commands/)
+
+关于`rsync`的更多用法可以查阅[这个链接](https://www.tecmint.com/rsync-local-remote-file-synchronization-commands/)。
+使用`rsync`的好处是如果下载断了，下次可以接着下。除了`rsync`之外，还可以使用`sftp`等命令。
 
 #### NSFC 账户
 
 {% highlight bash %}
-rsync -avzhe ssh --progress  nsfc:/NSFCGZ/nsfc2015_8/xuxr/ .
+rsync -avzhe ssh --progress  nsfc:/NSFCGZ/nsfc2015_8/远程路径 /本地路径
 {% endhighlight %}
 
 ### **如何用两台工作站跑小模拟**
@@ -26,6 +27,8 @@ rsync -avzhe ssh --progress  nsfc:/NSFCGZ/nsfc2015_8/xuxr/ .
 {% highlight bash %}
 echo data | mpirun -n 64 -host master,slave /home/work/workspace/epoch-4.10.1/epoch1d/bin/epoch1d
 {% endhighlight %}
+
+注意`-host master,slave`分别是两台工作站的主机名。
 
 
 
