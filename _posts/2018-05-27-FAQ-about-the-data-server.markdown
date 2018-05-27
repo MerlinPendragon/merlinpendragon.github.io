@@ -8,17 +8,17 @@ categories: faq update research
 1. **如何下载广州超算的数据？**
   * pku_bqiao_1 账户
 
-		{% highlight bash %}
-		rsync -avzhe ssh --progress  gzcs:/WORK/pku_bqiao_1/lxb/epoch-xb/epoch2d/ .
-		{% endhighlight %}
+    {% highlight bash %}
+    rsync -avzhe ssh --progress  gzcs:/WORK/pku_bqiao_1/lxb/epoch-xb/epoch2d/ .
+    {% endhighlight %}
 
-   关于 rsync 的更多用法可以查阅[这个链接](https://www.tecmint.com/rsync-local-remote-file-synchronization-commands/)
+    关于 rsync 的更多用法可以查阅[这个链接](https://www.tecmint.com/rsync-local-remote-file-synchronization-commands/)
 
   * NSFC 账户
 
-		{% highlight bash %}
-		rsync -avzhe ssh --progress  nsfc:/NSFCGZ/nsfc2015_8/xuxr/ .
-		{% endhighlight %}
+    {% highlight bash %}
+    rsync -avzhe ssh --progress  nsfc:/NSFCGZ/nsfc2015_8/xuxr/ .
+    {% endhighlight %}
 
 2. **如何用两台工作站跑小模拟**
 
