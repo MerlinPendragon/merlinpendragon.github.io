@@ -12,7 +12,7 @@ categories: faq update research
 		rsync -avzhe ssh --progress  gzcs:/WORK/pku_bqiao_1/lxb/epoch-xb/epoch2d/ .
 		{% endhighlight %}
 
-	关于 rsync 的更多用法可以查阅[这个链接](https://www.tecmint.com/rsync-local-remote-file-synchronization-commands/)
+   关于 rsync 的更多用法可以查阅[这个链接](https://www.tecmint.com/rsync-local-remote-file-synchronization-commands/)
 
   * NSFC 账户
 
