@@ -44,7 +44,7 @@ sudo passwd 用户名
 
 #### Jupyter 快速上手
 
-参考 `/home/work/workspace/test.ipynb` 的内容。
+参考 `/home/work/workspace/tutorial.ipynb` 的内容。
 
 
 
