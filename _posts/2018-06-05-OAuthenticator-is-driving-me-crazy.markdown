@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "OAuthenticator is driving me crazy!!"
-date:   2018-06-04 23:09:01 +0800
+date:   2018-06-05 23:09:01 +0800
 categories: jupyter jupyterhub OAuthenticator
 ---
 
