@@ -26,7 +26,7 @@ OMG, it all starts when I saw the lastest post of Taylor on Instagram. She looks
 > There will be no further explanation.
 > There will be just reputation.
 
-This prologue resonates with so much. People are complicated. You think you know someone. In fact, it's just a version of him/her.
+This prologue resonates with me so much. People are complicated. You think you know someone. In fact, it's just a version of him/her.
 
 > **Why She Disappeared**    
 >    
