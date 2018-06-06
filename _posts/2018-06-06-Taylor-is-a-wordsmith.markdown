@@ -28,108 +28,109 @@ OMG, it all starts when I saw the lastest post of Taylor on Instagram. She looks
 
 This prologue resonates with so much. People are complicated. You think you know someone. In fact, it's just a version of him/her.
 
-> **Why She Disappeared**
->
-> When she fell, she fell apart.
-> Cracked her bones on the pavement she once decorated
-> as a child with sidewalk chalk
-> When she crashed, her clothes disintegrated and blew away
-> with the winds that took all of her fair-weather friends
-> 
-> When she looked around, her skin was spattered with ink
-> forming the words of a thousand voices
-> Echoes she heard even in her sleep:
-> "Whatever you say, it is not right."
-> "Whatever you do, it is not enough."
-> "Your kindness is fake."
-> "Your pain is manipulative."
-> 
-> When she lay there on the ground,
-> She dreamed of time machines and revenge
-> and a love that was really something,
-> Not just the idea of something.
-> 
-> When she finally rose, she rose slowly
-> Avoiding old haunts and sidestepping shiny pennies
-> Wary of phone calls and promises,
-> Charmers, dandies and get-love-quick-schemes
-> 
-> When she stood, she stood with a desolate knowingness
-> Waded out into the dark, wild ocean up to her neck
-> Bathed in her brokenness
-> Said a prayer of gratitude for each chink in the armor
-> she never knew she needed
-> Standing broad-shouldered next to her
-> was a love that was really something,
-> not just the idea of something.
-> 
-> When she turned to go home,
-> She heard the echoes of new words
-> "May your heart remain breakable
-> But never by the same hand twice"
-> And even louder:
-> "without your past,
-> you could never have arrived-
-> so wondrously and brutally,
-> By design or some violent, exquisite happenstance
-> ...here."
-> 
-> And in the death of her reputation,
-> She felt truly alive.
+> **Why She Disappeared**    
+>    
+> When she fell, she fell apart.    
+> Cracked her bones on the pavement she once decorated    
+> as a child with sidewalk chalk    
+> When she crashed, her clothes disintegrated and blew away    
+> with the winds that took all of her fair-weather friends    
+>     
+> When she looked around, her skin was spattered with ink    
+> forming the words of a thousand voices    
+> Echoes she heard even in her sleep:    
+> "Whatever you say, it is not right."    
+> "Whatever you do, it is not enough."    
+> "Your kindness is fake."    
+> "Your pain is manipulative."    
+>     
+> When she lay there on the ground,    
+> She dreamed of time machines and revenge    
+> and a love that was really something,    
+> Not just the idea of something.    
+>     
+> When she finally rose, she rose slowly    
+> Avoiding old haunts and sidestepping shiny pennies    
+> Wary of phone calls and promises,    
+> Charmers, dandies and get-love-quick-schemes    
+>     
+> When she stood, she stood with a desolate knowingness    
+> Waded out into the dark, wild ocean up to her neck    
+> Bathed in her brokenness    
+> Said a prayer of gratitude for each chink in the armor    
+> she never knew she needed    
+> Standing broad-shouldered next to her    
+> was a love that was really something,    
+> not just the idea of something.    
+>     
+> When she turned to go home,    
+> She heard the echoes of new words    
+> "May your heart remain breakable    
+> But never by the same hand twice"    
+> And even louder:    
+> "without your past,    
+> you could never have arrived-    
+> so wondrously and brutally,    
+> By design or some violent, exquisite happenstance    
+> ...here."    
+>     
+> And in the death of her reputation,    
+> She felt truly alive.     
 
-> If You're Anything Like Me
-> 
-> If you're anything like me,
-> You bite your nails,
-> And laugh when you're nervous.
-> You promise people the world,
-> because that's what they want from you.
-> You like giving them what they want...
-> But darling, you need to stop,
-> 
-> If you're anything like me,
-> You knock on wood every time you make plans.
-> You cross your fingers, hold your breath,
-> Wish on lucky numbers and eyelashes
-> Your superstitions were the lone survivors of the shipwreck.
-> Rest In Peace, to your naive bravado...
-> If life gets too good now,
-> Darling, it scares you.
-> 
-> If you're anything like me,
-> You never wanted to lock your door,
-> Your secret garden gate or your diary drawer
-> Didn't want to face the you you don't know anymore
-> For fear she was much better before...
-> But Darling, now you have to.
-> 
-> If you're anything like me,
-> There's a justice system in your head
-> For names you'll never speak again,
-> And you make your ruthless rulings.
-> Each new enemy turns to steel
-> They become the bars that confine you,
-> In your own little golden prison cell...
-> But Darling, there is where you meet yourself.
-> 
-> If you're anything like me
-> You've grown to hate your pride
-> To love your thighs
-> And no amount of friends at 25
-> Will fill the empty seats
-> At the lunch tables of your past
-> The teams that picked you last...
-> But Darling, you keep trying.
-> 
-> If you're anything like me,
-> You couldn't recognize the face of your love
-> Until they stripped you of your shiny paint
-> Threw your victory flag away
-> And you saw the ones who wanted you anyway...
-> Darling, later on you will thank your stars
-> for that frightful day.
-> 
-> If you're anything like me,
-> I'm sorry.
+> **If You're Anything Like Me**     
+>     
+> If you're anything like me,      
+> You bite your nails,       
+> And laugh when you're nervous.      
+> You promise people the world,    
+> because that's what they want from you.    
+> You like giving them what they want...    
+> But darling, you need to stop,    
+>     
+> If you're anything like me,    
+> You knock on wood every time you make plans.    
+> You cross your fingers, hold your breath,    
+> Wish on lucky numbers and eyelashes    
+> Your superstitions were the lone survivors of the shipwreck.    
+> Rest In Peace, to your naive bravado...    
+> If life gets too good now,    
+> Darling, it scares you.    
+>     
+> If you're anything like me,    
+> You never wanted to lock your door,    
+> Your secret garden gate or your diary drawer    
+> Didn't want to face the you you don't know anymore    
+> For fear she was much better before...    
+> But Darling, now you have to.    
+>     
+> If you're anything like me,    
+> There's a justice system in your head    
+> For names you'll never speak again,    
+> And you make your ruthless rulings.    
+> Each new enemy turns to steel    
+> They become the bars that confine you,    
+> In your own little golden prison cell...    
+> But Darling, there is where you meet yourself.    
+>     
+> If you're anything like me    
+> You've grown to hate your pride    
+> To love your thighs    
+> And no amount of friends at 25    
+> Will fill the empty seats    
+> At the lunch tables of your past    
+> The teams that picked you last...    
+> But Darling, you keep trying.    
+>     
+> If you're anything like me,    
+> You couldn't recognize the face of your love    
+> Until they stripped you of your shiny paint    
+> Threw your victory flag away    
+> And you saw the ones who wanted you anyway...    
+> Darling, later on you will thank your stars    
+> for that frightful day.    
+>     
+> If you're anything like me,    
+> I'm sorry.    
+>     
  
 Like Diane or Adam from TaylorTalk has said, Taylor is a wordsmith.
