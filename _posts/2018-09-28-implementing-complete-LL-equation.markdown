@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "Notes | Implementing complete Landau-Lifshitz equation into EPOCH"
