@@ -7,8 +7,7 @@ categories: faq update research
 
 ### 2019.08.27 更新
 
-1. 近期 vpn 出现问题，导致连不上广超，请各位通过自己的电脑连接。
-2. slurm作业调度系统已安装，请使用slurm来提交小模拟
+slurm作业调度系统已安装，请使用slurm来提交小模拟
 以 1d 为例
 
 {% highlight bash %}
