@@ -15,7 +15,7 @@ echo data | srun -p debug -N 1 -n 需要的核数 /epoch的路径/
 {% endhighlight %}
 
 ### 一、什么是 QILA？
-QILA 是 QED、Ion Acceleration、Laboratory Astrophysics、Attosecondd的首字母缩写
+QILA 是 QED、Ion Acceleration、Laboratory Astrophysics、Attosecond 的首字母缩写
 ,是我们组的数据存储服务器。QILA 有如下几个使命：
 1. 存储数据。QILA 现在配有近30T的存储空间，供大家存储数据。
 2. 处理数据。QILA 性能强劲，64G内存加两颗至强 E5-2620 芯片加 Pascal 显卡，足够处理海量数据。
